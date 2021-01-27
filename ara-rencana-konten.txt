@@ -1,7 +1,12 @@
 RENCANA KONTEN ARA
 
 - Javascript
+  * Angular
+  * React
 - Framework
   * Codeigniter 4
   * Laravel
 - CSS
+- Web Design
+  * Front End
+  * Back End

@@ -1,7 +1,8 @@
 RENCANA KONTEN ARA
 
 - Javascript
+  * Vue
+  * React
 - Framework
   * Codeigniter 4
   * Laravel
-- CSS

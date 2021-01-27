@@ -2,3 +2,5 @@ RENCANA KONTEN ARA
 
 - Javascript
 - Framework
+  * Codeigniter 4
+  * Laravel
